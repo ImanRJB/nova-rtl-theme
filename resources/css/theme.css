@@ -272,7 +272,7 @@ body, li, th, td, table, div, h1, h2, h3, h4, h5, h6, a, span, input, label {
 }
 
 .pl-search {
-    padding-left: unset !important;
+    padding-left: 1rem !important;
     padding-right: 2.75rem;
 }
 
