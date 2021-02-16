@@ -399,3 +399,7 @@ trix-toolbar .trix-button-group:not(:first-child) {
     right: -25px !important;
     left: unset !important;
 }
+
+.svg-inline--fa {
+    fill: #b3c1d1;
+}
