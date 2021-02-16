@@ -383,3 +383,8 @@ trix-toolbar .trix-button-group:not(:first-child) {
     border-top-right-radius: unset;
     border-bottom-right-radius: unset;
 }
+
+.collapsible-indicator {
+	left:0;
+	right:unset;
+}
