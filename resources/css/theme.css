@@ -386,5 +386,5 @@ trix-toolbar .trix-button-group:not(:first-child) {
 
 .collapsible-indicator {
 	left:0;
-	right:unset;
+	right:unset !important;
 }
