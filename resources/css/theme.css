@@ -384,7 +384,18 @@ trix-toolbar .trix-button-group:not(:first-child) {
     border-bottom-right-radius: unset;
 }
 
+
 .collapsible-indicator {
-	left:0;
-	right:unset !important;
+	left:unset !important;
+	right:-30px !important;
+}
+
+.tracking-wide {
+    margin-left: 2rem !important;
+    margin-right: unset !important;
+}
+
+.resource-list-icon {
+    right: -25px !important;
+    left: unset !important;
 }
